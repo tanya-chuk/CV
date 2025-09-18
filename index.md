@@ -12,7 +12,7 @@
 - React + Redux
 - CSS, Styled Components, CSS modules
 - Material UI, Ant UI
-- Jest
+- Jest, React Testing Library
 
 ## Опыт работы: 5 лет
 
