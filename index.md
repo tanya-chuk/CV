@@ -1,10 +1,28 @@
 # 👩‍💻 Татьяна Осадчук, фронтенд разработчик
 
-☎️ +7 (929) 604-54-49<br />
-✉️ tanya-chuk@yandex.ru<br />
-👾 [GitHub](http://github.com/tanya-chuk)<br />
+<div style='display: flex; flex-direction: column; gap: 2px'>
+  <div style="display: flex; align-items: center; gap: 5px">
+    <img height='20' width='20' src='assets/tg.svg'>
+    <a href='https://t.me/tanyachuk'>Telegram</a>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px">
+    <img height='20' width='20' src='assets/gh.svg'>
+    <a href='http://github.com/tanya-chuk'>GitHub</a>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px">
+    <img height='20' width='20' src='assets/phone.png'>
+    <span>+7 (929) 604-54-49</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px">
+    <img height='20' width='20' src='assets/mail.png'>
+    <span>tanya-chuk@yandex.ru</span>
+  </div>
+</div>
 <br />
+<div>
 Превращаю сложные требования в понятные и удобные интерфейсы.<br />Люблю, когда код автоматизирует повседневную рутину, и потому развиваю собственные небольшие проекты.<br />Уверена, что для разработчика коммуникативные навыки важны не менее, чем технические компетенции.
+</div>
+<br />
 
 **🛠️ Технологический стек**
 
