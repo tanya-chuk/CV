@@ -26,7 +26,7 @@
 **🛠️ Технологический стек**
 
 - JavaScript + Typescript
-- React + Redux/MobX
+- React + Redux/MobX/Effector
 - CSS, Styled Components, CSS modules
 - Material UI, Ant UI
 - Jest, React Testing Library
